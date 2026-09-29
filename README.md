@@ -70,7 +70,8 @@ The program displays four images:
 
 ### Output Image
 
-![Edge Detection Output](output.png)
+<img width="1189" height="813" alt="image" src="https://github.com/user-attachments/assets/c5edf4bf-9721-4632-9074-03d53e366df6" />
+
 
 ## Result
 
